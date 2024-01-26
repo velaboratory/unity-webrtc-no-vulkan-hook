@@ -1,3 +1,11 @@
+# MODIFIED VERSION
+
+This is a modified version of com.unity.webrtc with Android startup Vulkan hooks removed. Temporary fix for incompatibility between com.unity.webrtc and oculus SDK.
+
+Original readme follows.
+
+---
+
 # WebRTC for Unity
 
 <img src="https://img.shields.io/badge/unity-2020.3-green.svg?style=flat-square" alt="unity 2020.3">
