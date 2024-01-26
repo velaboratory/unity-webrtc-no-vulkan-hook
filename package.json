@@ -3,14 +3,13 @@
   "displayName": "WebRTC (No Vulkan Hook)",
   "version": "3.0.0-pre.7",
   "unity": "2020.3",
-  "description": "The WebRTC package provides browsers and mobile applications with Real-Time Communications (RTC) capabilities. This is a fork which removes the Vulkan init hooks on Android to workaround a compatibility issue with the Oculus/OpenXR SDK.",
+  "description": "This is a fork of com.unity.webrtc which removes the Vulkan init hooks on Android to workaround a compatibility issue with the Oculus/OpenXR SDK. Original package by Unity. Original readme: The WebRTC package provides browsers and mobile applications with Real-Time Communications (RTC) capabilities.",
   "keywords": [
     "webrtc",
     "web"
   ],
   "author": {
-    "name": "Unity (modified by UCL Immersive Virtual Environments Laboratory)",
-    "url": "https://github.com/UCL-VR/unity-webrtc-no-vulkan-hook"
+    "name": "UCL Immersive Virtual Environments Laboratory"
   },
   "dependencies": {
     "com.unity.modules.jsonserialize": "1.0.0",
